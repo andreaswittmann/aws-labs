@@ -9,7 +9,7 @@
 
 * Introduction
 This project is hostet on GitHub: https://github.com/andreaswittmann/aws-labs
-
+The project documentation page is: http://live-scripting.s3-website.eu-central-1.amazonaws.com/orgweb/aws-labs/control-tower.html
 In this tutorial we want to take a look at setting up and deleting an AWS landing zone, using the AWS Control-Tower
 
 
