@@ -6,10 +6,14 @@
 
 #+Title: Control Tower
 
+This report documents the labs excercises for the aws landing zone using control tower.
 
 * Introduction
-This project is hostet on GitHub: https://github.com/andreaswittmann/aws-labs
-The project documentation page is: http://live-scripting.s3-website.eu-central-1.amazonaws.com/orgweb/aws-labs/control-tower.html
-In this tutorial we want to take a look at setting up and deleting an AWS landing zone, using the AWS Control-Tower
+- This project is hostet on GitHub :: https://github.com/andreaswittmann/aws-labs
+- The project documentation page is :: http://live-scripting.s3-website.eu-central-1.amazonaws.com/orgweb/aws-labs/control-tower.html
+- In this tutorial we want to take a look at setting up and deleting an AWS landing zone, using the AWS Control-Tower. We will follow the instructions at :: [[https://docs.aws.amazon.com/controltower/latest/userguide/getting-started-with-control-tower.html][Getting started with AWS Control Tower - AWS Control Tower]]
+- A short video demonstarting the setup process on youtube ::  [[https://www.youtube.com/watch?v=JkI6muP8vq4][AWS Control Tower set up demo (English). - YouTube]]
+- A short video demonstrating to approaches of decommisioning the landing zone :: [[https://www.youtube.com/watch?v=e_DATM0Pucc][Decommission your landing zone - Landing Zone Using Control Tower - YouTube]]
+   
 
 
