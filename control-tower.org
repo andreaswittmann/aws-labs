@@ -17,3 +17,18 @@ This report documents the labs excercises for the aws landing zone using control
    
 
 
+
+ "
+
+ #+begin_src bash
+
+   Introduction
+   ,*Rescan*
+   movemail
+   pyrsa-sign
+
+
+   ,*Rescan*
+
+   quota
+ #+end_src
