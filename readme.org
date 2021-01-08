@@ -6,10 +6,14 @@
 
 #+Title: Readme
 
-Hello, this is the readme page off my project aws-labs. This project contains labs that I use to explore and test out different aspects of the AWS cloud technology.
+* Project Description
+Hello, this is the readme page of my project aws-labs. This project contains labs that I use to explore and test out different aspects of the AWS cloud technology. The project is stored on gitub.
+I setup the labs using the live-scripting approache. You can read more about live-scripting at [[https://github.com/andreaswittmann/live-scripting][andreaswittmann/live-scripting]]
+The documentation of the labs is based on emacs orgmode and saved to orgmode files. They are published on static website hosted on AWS S3. 
 
-Links:
-| GitHub Project | [[https://github.com/andreaswittmann/aws-labs][andreaswittmann/aws-labs]] |
-| Documentation  |                          |
-
+* Links
+| Project on GitHub             | [[https://github.com/andreaswittmann/aws-labs][andreaswittmann/aws-labs]] |
+| Project Documentation Website | [[http://live-scripting.s3-website.eu-central-1.amazonaws.com/orgweb/aws-labs/readme.html][Readme]]                   |
+| Basic AWS Labs                | [[file:basic-labs.org]]      |
+| Control Tower Labs            | [[file:control-tower.org]]   |
 
