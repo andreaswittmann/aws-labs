@@ -1,0 +1,14 @@
+#+SETUPFILE: ~/org/aw-org-html-themes/setup/theme-readtheorg-local.setup
+#+Options: \n:t ^:{}
+#+HTML_LINK_HOME: /orgweb/index.html
+#+HTML_LINK_UP: /orgweb/index.html
+
+
+#+Title: Readme
+
+Hello, this is the readme page off my project aws-labs. This project contains labs that I use to explore and test out different aspects of the AWS cloud technology.
+
+Links:
+
+
+
