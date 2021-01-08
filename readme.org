@@ -9,6 +9,7 @@
 Hello, this is the readme page off my project aws-labs. This project contains labs that I use to explore and test out different aspects of the AWS cloud technology.
 
 Links:
-
+| GitHub Project | [[https://github.com/andreaswittmann/aws-labs][andreaswittmann/aws-labs]] |
+| Documentation  |                          |
 
 
